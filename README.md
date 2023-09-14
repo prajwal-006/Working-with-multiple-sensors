@@ -1,6 +1,13 @@
 # Working-with-multiple-sensors
 Marvel EV&amp;RE Level 2 Task 6
 
+# Video
+
+https://github.com/prajwal-006/Working-with-multiple-sensors/assets/120716113/950e1730-0d92-4f78-9ff6-e03be0f61268
+
+
+# Images
+
 ![Tinkercad-Model](https://github.com/prajwal-006/Working-with-multiple-sensors/assets/120716113/6f38f644-e233-4907-a960-509559f37f93)
 
 
